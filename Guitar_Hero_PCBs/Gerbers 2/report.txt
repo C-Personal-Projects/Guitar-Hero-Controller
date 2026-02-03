@@ -1,0 +1,10 @@
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-F_Cu.gtl'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-B_Cu.gbl'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-F_Paste.gtp'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-B_Paste.gbp'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-F_Silkscreen.gto'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-F_Mask.gts'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-B_Mask.gbs'.
+Plotted to 'C:\Users\mr175\Desktop\PCB projects\Guitar_Hero_PCBs\Gerbers 2\Guitar_Hero_PCBs-Edge_Cuts.gm1'.
+Info: Done.
